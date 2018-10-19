@@ -44,4 +44,5 @@ public class TwoStringsTest {
         String result = TwoStrings.alternateStrings("", "xyz");
         assertEquals("xyz", result);
     }
+
 }
